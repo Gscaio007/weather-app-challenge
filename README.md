@@ -1,4 +1,4 @@
-# Projeto Weather Insights (NestJS, Vite, Go, Python)
+# Desafio GDash (NestJS, Vite, Go, Python)
 
 ##  Objetivo
 Implementação de uma arquitetura de microsserviços para coleta, processamento em fila e análise de dados de clima, com um dashboard de visualização em tempo real.
