@@ -20,10 +20,7 @@ O sistema é composto por 6 serviços orquestrados via Docker Compose:
 ### Passos
 1.  **Configuração do Ambiente:** Crie o arquivo `.env` na raiz do projeto, copiando o conteúdo do **`.env.example`**.
 2.  **Chave da API:** Insira sua chave de teste da OpenWeatherMap na variável `OPENWEATHER_API_KEY` dentro do seu novo arquivo `.env`.
-3.  **Execução:** Na raiz do projeto, execute o comando para construir e iniciar todos os serviços:
-    ```bash
-    docker compose up -d --build
-    ```
+
 
 ##  URLs Principais
 
