@@ -1,0 +1,22 @@
+# Node.js Dependencies
+/backend-nestjs/node_modules
+/frontend-react/node_modules
+/backend-nestjs/dist
+/frontend-react/dist
+/dist
+/build
+
+# Python Dependencies
+/collector-python/venv
+
+# Go Dependencies
+/worker-go/vendor
+/worker-go/go.sum
+/worker-go/*.exe # Binários de Go
+
+# Docker
+*.log
+
+# Arquivos de Ambiente (CRÍTICO: Contêm senhas e chaves)
+.env
+*/.env

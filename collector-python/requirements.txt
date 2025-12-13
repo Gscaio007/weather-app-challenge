@@ -1,0 +1,4 @@
+# collector-python/requirements.txt
+pika
+requests
+python-dotenv
